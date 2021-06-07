@@ -1,0 +1,1 @@
+export const bucketUrl = "https://d3gebj1n0o2ips.cloudfront.net/";
